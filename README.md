@@ -1,6 +1,6 @@
 <div align="center">
 
-# SET UP VMware WORKSTATION MACHINE
+# SET UP VIRTUAL MACHINE ON VMware
 
 </div>
 
