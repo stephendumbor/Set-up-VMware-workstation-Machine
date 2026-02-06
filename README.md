@@ -57,3 +57,10 @@ Proceed with installation of Windows Server 2025 version (Enter Boot normal): <b
 <div/>
 <br />
 <br />
+
+
+<div align="center">
+
+© 2026 Stephen Dumbor. All rights reserved.
+</div>
+
