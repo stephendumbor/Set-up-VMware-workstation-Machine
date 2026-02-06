@@ -1,4 +1,8 @@
+<div align="center">
+
 # SET UP VMware WORKSTATION MACHINE
+
+</div>
 
 <p align="center">
 Launch the VMware software and Sellect Create Virtual machine: <br/>
@@ -45,7 +49,11 @@ Proceed with installation of Windows Server 2025 version (Enter Boot normal): <b
 <img src="https://imgur.com/P9CpbD9" height="80%" width="80%" alt="Boot Normal"/>
 <br />
 <br />
+  
+<div align="center">
 
 # SEE: [Windows Server Installation](https://github.com/stephendumbor/Windows-Server-Installation) for Installation Guide <br/>
+
+<div/>
 <br />
 <br />
